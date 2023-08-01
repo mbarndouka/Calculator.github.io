@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
         
     })
 
-    decimal.addEventListener("click", function () {
+    decimal.addEventListener("click", function() {
         addDecimal();
     })
 })
